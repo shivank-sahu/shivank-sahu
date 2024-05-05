@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivank Sahu</h1>
 <h3 align="center">I am a passionate MERN stack developer with years of dedication and experience honing my skills. My goal is to contribute to exciting and impactful projects where I can leverage my expertise in both frontend and backend development. I am proficient in React. With my problem-solving</h3>
 
+<img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" alt="GIF" width="400" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivank-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="shivank-sahu" /> </p>
 
 - 🔭 I’m currently working on **Multitool web**
@@ -9,7 +10,8 @@
 
 - 📫 How to reach me **shivanksahu2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jNnK9NqmHLZC2SPuKbKofx0J3fUg_Uvo/view?usp=drive_link](https://drive.google.com/file/d/1jNnK9NqmHLZC2SPuKbKofx0J3fUg_Uvo/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jNnK9NqmHLZC2SPuKbKofx0J3fUg_Uvo/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
