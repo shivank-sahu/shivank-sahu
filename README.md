@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivank-sahu&show_icons=true&locale=en&layout=compact" alt="shivank-sahu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivank-sahu&show_icons=true&locale=en" alt="shivank-sahu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivank-sahu&" alt="shivank-sahu" /></p>
+
+
