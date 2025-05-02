@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shivanksahu2002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jNnK9NqmHLZC2SPuKbKofx0J3fUg_Uvo/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/home)
 
 
 <h3 align="left">Connect with me:</h3>
